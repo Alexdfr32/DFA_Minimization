@@ -24,7 +24,7 @@ for element in finals:
 
 print("\nAnd nonfinals are:", end=' ')
 for element in nonfinals:
-    print(element, end=" ")
+    print(element, end = " ")
 print("")
 print("")
 print("")
